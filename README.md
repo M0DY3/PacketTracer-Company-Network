@@ -63,7 +63,6 @@ It highlights VLAN segmentation, DHCP, DNS, HTTP, Email (demo), FTP (optional), 
 * **Email:** Internal mail simulation for IT & HR
 * **ACLs:** Restrict access based on VLAN, secure sensitive services
 * **Port Security:** Protect switch ports from unauthorized devices
-* **CV Demonstration:** Showcases practical networking, IT administration, and basic cybersecurity skills
 
 ---
 
