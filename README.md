@@ -46,9 +46,7 @@ It highlights VLAN segmentation, DHCP, DNS, HTTP, Email (demo), FTP (optional), 
 | IT VLAN       | Blue       | IT     |
 | HR VLAN       | Green      | HR     |
 | Guest VLAN    | Yellow     | Guest  |
-| Server        | Red        | Server |
-| Router        | Gray       | Router |
-| Switch        | Light Gray | SW     |
+
 
 * PCs organized in **blocks by VLAN**
 * Router at **top center**, Switch below, Server near center
