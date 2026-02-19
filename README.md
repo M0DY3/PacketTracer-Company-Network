@@ -6,6 +6,9 @@ A small corporate network simulation for **IT, HR, and Guest VLANs** using Cisco
 Demonstrates practical networking, system administration, and basic cybersecurity skills.
 
 ---
+![Alt Text](img/pk.png)
+
+
 
 ## **Project Overview**
 
